@@ -1,0 +1,196 @@
+.flex_container{
+    width: 1440px;
+    display: flex;
+    margin: auto;
+}
+
+
+.logo{
+    margin-top: 62px;
+    margin-left: 70px;
+    vertical-align: top;
+    display: flex;
+  
+}
+nav{
+    
+    vertical-align: top;
+    margin-top: 65px;
+    margin-left: 262px;
+    
+}
+li,ul{
+    display: flex;
+
+}
+header{
+    display: flex;   
+    width: 1440px;
+    margin: 0,auto;
+}
+.text1{
+    font-size: 24px;
+    color: #27187F;
+}
+.text2{
+    font-size: 24px;
+   margin-left: 50px;
+   margin-right: 50px;
+ color: #758BFD;
+}
+.text3{
+    font-size: 24px;
+    color: #758BFD;
+}
+.flex_box{
+   border: 3px solid #27187F;
+   width: 221px;
+   height: 45px;
+   display: flex; 
+   margin-left: 262px;
+   margin-top: 53px;
+   border-radius: 10px;
+}
+.fa-solid{
+    color: #758BFD;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-left: 170px;
+}
+.flex_div{
+    display: flex;
+}
+section{
+    height: 1051px;
+    background-color: #DDEAF8;
+    margin-top: 50px;
+    width: 1440px;
+ grid: 22px;
+}
+h2{
+    font-size: 32px;
+    color: #27187F;
+  padding-top: 94px;
+  padding-left: 98px;
+  display: flex;
+}
+.cards{
+    display: flex;
+ justify-content: space-around;
+}
+.cards1{
+    background-color: white;
+   width: 400px;
+   height: 333px;
+   padding-top: 10px;
+
+   margin-top: 68px;
+  padding-top: 33px;
+  padding-left: 30px;
+  border-radius: 10px;
+  
+}
+.description1{
+  padding-left: 30px; 
+  padding-top: 33px;
+  font-size: 20px;
+  width: 340px;
+  display: flex;
+}
+.cards2{
+   background-color: white;
+   width: 400px;
+   height: 333px;
+   padding-top: 10px;
+   
+   margin-top: 68px;
+  padding-top: 33px;
+  padding-left: 30px;
+  border-radius: 10px;   
+}
+.description2{
+  padding-left: 30px; 
+  padding-top: 33px;
+  font-size: 20px;
+  width: 340px;
+  display: flex;
+}
+.cards3{
+    background-color: white;
+   width: 400px;
+   height: 333px;
+   padding-top: 10px;
+   
+   margin-top: 68px;
+  padding-top: 33px;
+  padding-left: 30px;
+  border-radius: 10px;
+}
+.description3{
+  padding-left: 30px; 
+  padding-top: 33px;
+  font-size: 20px;
+  width: 340px;
+  display: flex;
+}
+footer{
+    width: 1440px;
+    height: 504px;
+    background-color: #758BFD;
+    display: flex;
+}
+
+.contact{
+    font-size: 18px;
+    padding-top: 75px;
+    padding-left: 98px;
+    color: #00CAD7;
+}
+.contact2{
+    font-size: 18px;
+    padding-left: 98px;
+    color: white;
+}
+.fa-brands{
+    width: 11px;
+    height: 22px;
+    color: white;
+    padding-top: 14px;
+    padding-left: 98px;
+}
+.fa-twitter{
+    padding-top: 14px;
+    color: white;
+    width: 22px;
+    height: 18px;
+    padding-left: 24px;
+}
+.fa-linkedin-in{
+    padding-top: 14px;
+    color: white;
+    width: 21px;
+    height: 21px;
+    padding-left: 24px; 
+}
+.fa-instagram{
+    padding-top: 14px;
+    color: white;
+    width: 22px;
+    height: 22px;
+    padding-left: 24px; 
+}
+
+.Trending1{
+    padding-top: 75px;
+    padding-left: 235px;
+    color: #00CAD7;
+    font-size: 20px;
+}
+.Trending{
+    font-size: 13px;
+    color: white;
+    padding-left: 235px;
+    padding-top: 12px;
+}
+
+
